@@ -11,8 +11,6 @@
 Hello, my name is **Rafael**, I'm from Belo Horizonte, Brazil, I started programming in february 2020, on Trybe: https://www.betrybe.com/  🚀 
 My goal is to improve myself in programming logic and algorithms.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy.gif" />
-
 
 **Languages and Tools:**  
 
